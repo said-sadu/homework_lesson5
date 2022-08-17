@@ -17,5 +17,6 @@ foreach (int element in arr)
 
     }
 }
+
 Console.WriteLine();
 Console.WriteLine("Количество четных элементов {0}", k);
